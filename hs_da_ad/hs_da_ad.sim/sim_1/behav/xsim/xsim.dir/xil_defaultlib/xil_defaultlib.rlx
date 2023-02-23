@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sim_1/new/tb_hs_da_ad.v,1674719857,verilog,,,,tb_hs_da_ad,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/ip/rom_sanjiao/sim/rom_sanjiao.v,1674714042,verilog,,E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/ip/rom_sin/sim/rom_sin.v,,rom_sanjiao,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/ip/rom_sin/sim/rom_sin.v,1674713827,verilog,,E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/ad_wave_rec.v,,rom_sin,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/ad_wave_rec.v,1674717923,verilog,,E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/da_wave_send.v,,ad_wave_rec,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/da_wave_send.v,1674719305,verilog,,E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/hs_da_ad.v,,da_wave_send,,,,,,,,
+E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sources_1/new/hs_da_ad.v,1674719041,verilog,,E:/FPGA/xianyu/hs_da_ad/hs_da_ad.srcs/sim_1/new/tb_hs_da_ad.v,,hs_da_ad,,,,,,,,
